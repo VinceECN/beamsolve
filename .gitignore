@@ -8,3 +8,4 @@ __pycache__/
 dist/
 beamsolve.egg-info/
 update_version.py
+tutorial.md
