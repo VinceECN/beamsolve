@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "beamsolve"
-version = "0.1.0"
+version = "1.0.0"
 description = "A Python package for modal analysis of Euler-Bernoulli beams using the Finite Element Method and analytical solutions"
 readme = "README.rst"
 authors = [
@@ -30,6 +30,6 @@ dependencies = [
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage   = "https://github.com/Vince_ECN/beamsolve"
+Homepage = "https://github.com/Vince_ECN/beamsolve"
 Repository = "https://github.com/Vince_ECN/beamsolve"
 Documentation = "https://Vince_ECN.github.io/beamsolve/"
