@@ -1,0 +1,10 @@
+venv/
+.vscode/
+.env
+docs/build/
+beamsolve/__pycache__/
+beamsolve/FEM/__pycache__/
+__pycache__/
+dist/
+beamsolve.egg-info/
+update_version.py
